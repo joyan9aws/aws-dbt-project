@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: kcc_raw_data
+    schema: raw_data
+    tables:
+      - name: kcc_data
+
